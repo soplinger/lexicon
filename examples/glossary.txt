@@ -1,0 +1,14 @@
+# Lexicon glossary for the example docs.
+# term: Preferred | aliases, comma separated | definition
+term: GitHub | Github, github, Git Hub | Code hosting service
+term: pull request | pull-request, PR | Proposed change to a branch
+term: allowlist | whitelist, white list | Permitted values
+term: sign in | log in, login | Authenticate with an account
+
+# ban: phrase | replacement | reason
+ban: master branch | main branch | inclusive terminology
+ban: blacklist | denylist | inclusive terminology
+
+# acronym: ABBR | Expansion
+acronym: API | Application Programming Interface
+acronym: CLI | Command-line interface
